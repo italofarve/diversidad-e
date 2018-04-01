@@ -1,7 +1,7 @@
 ![header](other/img/OSW-project-GitHub-template-header.jpg)
 
 # Nombre
-Propuestas: [Ada Lovelace](https://es.wikipedia.org/wiki/Ada_Lovelace), [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(scientist)) (en vida) 
+Propuestas: [Ada Lovelace](https://es.wikipedia.org/wiki/Ada_Lovelace), [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(scientist)) (81 años) 
 
 ## Sobre el proyecto
 Pequeño programa de formación para entrar y fomentar la diversidad en ecosistemas donde se usen tecnologías exponenciales (Blockchain, Inteligencia Artificial, Data Science, Internet Of things, Robotics, Quantum Computing, Virtual Reality, Medical devices, and more).
