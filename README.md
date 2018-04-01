@@ -27,10 +27,9 @@ Vamos a contribuir a reducir esa brecha de diversidad formando a personas de for
 
 ## Tecnologías y Herramientas
 - Python
-- Scikit Learn
-- Pandas
 - JavaScript
 - Solidity
+- Scrum
 - Pensamiento Exponencial
 - Estado del arte del ecosistema y hacia donde se dirige
 
